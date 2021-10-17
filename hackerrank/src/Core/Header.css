@@ -1,7 +1,7 @@
 .Header {
   top: 60px;
   height: 75px;
-  width: 100vw;
+  width: 98.9vw;
   display: grid;
   grid-template-areas: "logo nav";
   background-color: #fff;

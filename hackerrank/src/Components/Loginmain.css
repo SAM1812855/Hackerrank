@@ -1,0 +1,64 @@
+.Loginmain-wrapper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    background-color: #e2e7ec;
+}
+.loginbox{
+    display: flex;
+    flex-direction: column;
+}
+.Loginmain-logo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.Loginmain-title{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.Loginmain-text{
+    margin-bottom: 30px;
+}
+.Loginmain-box{
+    width: 600px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.loginbox{
+    margin: 50px;
+}
+.loginbox-title{
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.loginbox-input{
+    height: 60px;
+    padding: 14px;
+    margin-bottom: 20px;
+    outline: none !important;
+    border: 1px solid rgb(206, 206, 206);
+    border-radius: 4px;
+}
+.loginbox-button{
+    width: 120px;
+    background-color: #1ba94c;
+    font-size: 18px;
+    padding: 15px 30px;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    box-shadow: 0 4px 12px rgb(27 169 76 / 50%);
+    cursor: pointer;
+}
+.Loginmain-privacy{
+    margin-top: 20px ;
+}
+.loginbox-fp{
+    text-align: right;
+    color: #1ba94c;
+}

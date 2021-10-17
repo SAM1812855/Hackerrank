@@ -52,6 +52,7 @@
   margin: 10px;
   margin-bottom: 20px !important;
   box-shadow: 0 4px 12px rgb(27 169 76 / 50%);
+  cursor: pointer;
 }
 .green {
   color: #1ba94c;
