@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="footer-main">
         <div className="footer-wrapper">
           <Row className="footer-row-main">
-            <Col>
+            <Col xl={2}>
               <div className="footer-col-wrapper">
                 <div className="footer-col-heading">PRODUCTS</div>
                 <div className="footer-col-elements">
@@ -28,7 +28,7 @@ const Footer = () => {
                 </div>
               </div>
             </Col>
-            <Col>
+            <Col xl={2}>
               <div className="footer-col-wrapper">
                 <div className="footer-col-heading">SOLUTIONS</div>
                 <div className="footer-col-elements">
@@ -41,7 +41,7 @@ const Footer = () => {
                 </div>
               </div>
             </Col>
-            <Col>
+            <Col xl={2}>
               <div className="footer-col-wrapper">
                 <div className="footer-col-heading">CUSTOMERS</div>
                 <div className="footer-col-elements">
@@ -54,7 +54,7 @@ const Footer = () => {
                 </div>
               </div>
             </Col>
-            <Col>
+            <Col xl={2}>
               <div className="footer-col-wrapper">
                 <div className="footer-col-heading">RESOURCES</div>
                 <div className="footer-col-elements">
@@ -70,7 +70,7 @@ const Footer = () => {
                 </div>
               </div>
             </Col>
-            <Col>
+            <Col xl={4}>
               <div className="footer-lastcol">
                 <div className="footer-lastcol01">
                   

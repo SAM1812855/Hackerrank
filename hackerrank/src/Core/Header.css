@@ -1,6 +1,5 @@
 .Header {
-  position: fixed;
-  top: 0px;
+  top: 60px;
   height: 75px;
   width: 100vw;
   display: grid;

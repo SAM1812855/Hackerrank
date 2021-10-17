@@ -5,6 +5,7 @@ import Header from "./Core/Header.js"
 import Home from "./Core/Home.js"
 import AOS from "aos";
 import "aos/dist/aos.css";
+import "bootstrap/"
 
 
 function App() {
